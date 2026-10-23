@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDBE7E&background=0413303E&center=true&width=435&lines=%F0%9F%92%AB+Ardticles+Development)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDBE7E&background=0413303E&center=true&width=435&lines=Ardticles+Development)](https://git.io/typing-svg)
 
 <!--
 
