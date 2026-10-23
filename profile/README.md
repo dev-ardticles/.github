@@ -11,8 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDBE7E&background=0413309F&center=true&width=435&lines=%F0%9F%92%AB+Ardticles+Sevelopment;At+Ardticles%2C+we+specialize+in+engineering+high-performance+content+management+system+%28CMS%29+applications+that+bridge+the+gap+between+complex+web+development+and+intuitive+content+creation.+We+design+and+deploy+tailored+CMS+solutions%E2%80%94ranging+from+traditional+coupled+systems+to+modern%2C+API-driven+headless+and+hybrid+architectures.)](https://git.io/typing-svg)
 
+# 💫 About Me:
+At Ardticles, we specialize in engineering high-performance content management system (CMS) applications that bridge the gap between complex web development and intuitive content creation. We design and deploy tailored CMS solutions—ranging from traditional coupled systems to modern, API-driven headless and hybrid architectures.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardticles@gmail.com) 
