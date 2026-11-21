@@ -1,5 +1,7 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boldonse&pause=1000&color=DDBE7E&background=04133000&center=true&width=500&lines=Ardticles+Development" alt="Typing SVG" /></a>
+  <img src="https://raw.githubusercontent.com/dev-ardticles/.github/refs/heads/main/dev-ardticles.png" alt="dev-ardticles" width="120" />
+  <br/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boldonse&pause=1000&color=DDBE7E&background=04133000&center=true&width=500&lines=Ardticles+Development" alt="Typing SVG" /></a>
   
 </div>
 
